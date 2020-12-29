@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppSQLiteKotlin</string>
+    <string name="txt_cod">Codigo</string>
+    <string name="txt_nomb">Nombres</string>
+    <string name="txt_fono">Telefono</string>
+    <string name="btn_insertar">REgistrar</string>
+    <string name="btn_consul">Consultar</string>
+    <string name="btn_modifi">Modificar</string>
+    <string name="btn_elim">eleminar</string>
+</resources>
